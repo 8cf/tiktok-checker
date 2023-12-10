@@ -4,4 +4,7 @@ This tiktok username checker is not meant to be put out into the public. (please
 Instructions:
 
 1. You will need to install the TikTokAPI wrapper with this command:
-   'pip install TikTokApi'
+   ```bash
+   pip install TikTokApi
+   ```
+   
